@@ -1,0 +1,16 @@
+{
+    "name" : "Tiwari Academy",
+    "description" : "NCERT Books & Solutions for Class 1 to 12",
+    "version" : "1.0.0",
+    "manifest_version" : 3,
+    "icons": {
+        "16": "tia.png",
+        "48": "tia.png",
+        "128": "tia.png"
+      },
+    "action" : {
+        "default_popup": "popup.html",
+        "default_icon":"tia.png"
+    }
+
+}
